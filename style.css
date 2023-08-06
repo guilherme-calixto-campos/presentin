@@ -1,0 +1,14 @@
+.seccao-principal {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-family: 'Borel' , sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: 'Borel' , sans-serif;
+}
